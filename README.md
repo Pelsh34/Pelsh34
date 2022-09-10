@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pelsh34
 - 👀 I’m interested in statistic and data science
-- 🌱 I’m currently learning python (pandas, matplotlib, numpy) for analysis data.
+- 🌱 I’m currently learning python (pandas, matplotlib, numpy) and R for analysis data.
 - 💞️ I’m looking to collaborate on data science and ML
 - 📫 How to reach me email: vladpupkin45@yandex.ru
 
